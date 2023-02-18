@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on spring boot projects
 # About Me 📌
 - 🔭 I’m currently working as a freelacer backend developer
-- :seedling: BIT Graduate.
+- :seedling: I'm BIT Graduate.
 - :computer: Most used combination of lines of code `git add ; git commit ; git push`.
 - :speech_balloon: Ask me anything.
 
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Yazan-ALtiti&count_private=true&theme=dracula&hide_border=true" alt = "Yazan-ALtiti Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Yazan-ALtiti&theme=dracula&hide_border=true" alt = "Yazan-ALtiti Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=Yazan-ALtiti&count_private=true&theme=dracula&hide_border=true" alt = "Yazan-ALtiti Contribution" width = 400 hight=800 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Yazan-ALtiti&theme=dracula&hide_border=true" alt = "Yazan-ALtiti Rating" width = 400  hight=800  >
 
 </p>
 
