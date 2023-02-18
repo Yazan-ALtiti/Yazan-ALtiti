@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
-**WaelAlQawasmi/WaelAlQawasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on as freelacer
-  - 🌱 I’m currently learning Java sping boot
+- 🌱 I’m currently learning Java sping boot
 - 👯 I’m looking to collaborate on spring boot projects
 # About Me 📌
 - 🔭 I’m currently working as a freelacer backend developer
