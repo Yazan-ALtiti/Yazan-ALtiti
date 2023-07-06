@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on as freelacer
 - 🌱 I’m currently learning Java sping boot
+- and full stack developer
 - 👯 I’m looking to collaborate on spring boot projects
 # About Me 📌
 - 🔭 I’m currently working as a freelacer backend developer
